@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-add-delete-assignment/static/css/main.0146d093.chunk.css",
+    "main.js": "/react-add-delete-assignment/static/js/main.484ab430.chunk.js",
+    "main.js.map": "/react-add-delete-assignment/static/js/main.484ab430.chunk.js.map",
+    "runtime-main.js": "/react-add-delete-assignment/static/js/runtime-main.018335cd.js",
+    "runtime-main.js.map": "/react-add-delete-assignment/static/js/runtime-main.018335cd.js.map",
+    "static/js/2.d6e93681.chunk.js": "/react-add-delete-assignment/static/js/2.d6e93681.chunk.js",
+    "static/js/2.d6e93681.chunk.js.map": "/react-add-delete-assignment/static/js/2.d6e93681.chunk.js.map",
+    "index.html": "/react-add-delete-assignment/index.html",
+    "precache-manifest.cb7347ca7e9771bebf0dca2d78b086e6.js": "/react-add-delete-assignment/precache-manifest.cb7347ca7e9771bebf0dca2d78b086e6.js",
+    "service-worker.js": "/react-add-delete-assignment/service-worker.js",
+    "static/css/main.0146d093.chunk.css.map": "/react-add-delete-assignment/static/css/main.0146d093.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.018335cd.js",
+    "static/js/2.d6e93681.chunk.js",
+    "static/css/main.0146d093.chunk.css",
+    "static/js/main.484ab430.chunk.js"
+  ]
+}
